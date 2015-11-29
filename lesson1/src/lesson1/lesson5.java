@@ -31,7 +31,7 @@ public class lesson5 {
 				bTrue=false;
 						
 			}
-		int n = 6;
+		int n = 7;
 		do {
 			
 			n++;
